@@ -1,0 +1,34 @@
+programa
+
+  numero a, c, d, e, f, g.
+  texto b.
+
+  e = 2.5.
+
+  escreva(a).
+  b = "a".
+  escreva(b).
+  
+  d = 1.
+  c = 2.
+  se( d < c ){
+       leia (d).     
+  } senao {
+	escreva (a).
+  }
+
+while (d != c) {
+	escreva(b).
+	c = 1.
+}
+
+do {
+	escreva(e).
+	c = d.
+} while (c != d).
+
+escreva(g).
+
+f = 1.
+
+fimprog.
